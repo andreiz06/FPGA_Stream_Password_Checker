@@ -39,4 +39,4 @@ The waveform below shows the sorting test followed by the password sequence. Not
 * **IDE:** Xilinx Vivado 2024.2
 
 ---
-*Created by Zaharia Andrei-Cristian - 2025*
+*Created by Zaharia Andrei-Cristian - 2026*
